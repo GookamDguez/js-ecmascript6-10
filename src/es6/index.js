@@ -167,3 +167,13 @@ console.log(generatorHello.next().value)
 console.log(generatorHello.next().value)
 
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Iterators_and_Generators
+
+/*
+ES6:
+- Default Params        - Promesas
+- Template literals     - Parametros en objetos
+- let, const            - Closes
+- Spread Operator       - Modulos
+- Destructuring         - Generadores
+- Arrow functions
+*/

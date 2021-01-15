@@ -18,3 +18,8 @@ let exponent = 3
 let result = base ** exponent
 
 console.log(result)
+
+/* ES7:
+- includes
+. Operador de exponenciacion
+*/

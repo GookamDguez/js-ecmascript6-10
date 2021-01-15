@@ -54,3 +54,10 @@ const month = match[2]
 const day = match[3]
 
 console.log(year, month, day)
+
+/**
+ * ES9:
+ * - Rest / Spread propieties
+ * - promise finally
+ * - RegEx named capture groups
+ */

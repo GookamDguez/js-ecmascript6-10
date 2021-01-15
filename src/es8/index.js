@@ -72,3 +72,11 @@ const anotherFunction = async () => {
 }
 
 anotherFunction()
+
+/*
+ES8:
+- Async functions (Aync await)
+- Object entries
+- Object values
+- String padding
+*/

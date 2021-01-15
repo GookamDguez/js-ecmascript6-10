@@ -1,4 +1,4 @@
-// junio de 2019
+// ES10 junio de 2019
 let array = [1,2,3, [1,2,3, [1,2,3]]]
 //falt: recibe como argumento la profundidad
 //      sino lleva parametros obtiene la profundidad de solo un nivel.
@@ -49,4 +49,12 @@ console.log(symbol.description)
 
 /*
 TC39 comite que se encarga de recibir propuestas, que se encarga de llevarlas para ser añadidas en JS
+*/
+
+/* ES10:
+    - array.flat, array.flatMap
+    - Optional Catch Binding
+    - formEntries
+    - trimStart / trimEnd
+    - Symbol (Objeto)
 */
